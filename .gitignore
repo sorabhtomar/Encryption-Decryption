@@ -1,0 +1,28 @@
+# Project exclude paths
+/.idea/
+/.gradle/
+/Encryption-Decryption/Choices, choices/task/build/
+/Encryption-Decryption/Choices, choices/task/out/
+/Encryption-Decryption/Choices, choices/task/out/production/classes/
+/Encryption-Decryption/Decrypted/task/build/
+/Encryption-Decryption/Decrypted/task/out/
+/Encryption-Decryption/Decrypted/task/out/production/classes/
+/Encryption-Decryption/Encrypted/task/build/
+/Encryption-Decryption/Encrypted/task/out/
+/Encryption-Decryption/Encrypted/task/out/production/classes/
+/Encryption-Decryption/I command you/task/build/
+/Encryption-Decryption/I command you/task/out/
+/Encryption-Decryption/I command you/task/out/production/classes/
+/Encryption-Decryption/Knowledge is key/task/build/
+/Encryption-Decryption/Knowledge is key/task/out/
+/Encryption-Decryption/Knowledge is key/task/out/production/classes/
+/Encryption-Decryption/task/build/
+/Encryption-Decryption/task/out/
+/Encryption-Decryption/task/out/production/classes/
+/Encryption-Decryption/X-files/task/build/
+/Encryption-Decryption/X-files/task/out/
+/Encryption-Decryption/X-files/task/out/production/classes/
+/Topics/Abstract factory/Phone factory/out/
+/Topics/Abstract factory/Phone factory/out/production/classes/
+/Topics/Strategy/Pick your team/out/
+/Topics/Strategy/Pick your team/out/production/classes/
